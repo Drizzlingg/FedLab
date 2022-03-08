@@ -7,8 +7,10 @@ Awesome
 .. toctree::
    :hidden:
 
+   tutorial
    survey
    framework
+
 
 
 
