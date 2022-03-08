@@ -11,9 +11,9 @@ Awesome
    survey
    framework
    benchmark
-   semi-supervised
+   semi_supervised
    hpc
-   other-awesome
+   other_awesome
 
 
 
