@@ -20,3 +20,9 @@ Awesome
 .. card:: Framework
     :link: framework
     :link-type: ref
+
+
+.. card:: Clickable Card (external)
+    :link: https://example.com
+
+    The entire card can be clicked to navigate to https://example.com.
