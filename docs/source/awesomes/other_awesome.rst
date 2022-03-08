@@ -1,8 +1,8 @@
 .. _other-awesome:
 
-******************
-Other Awesome List
-******************
+*******************
+Other Awesome Lists
+*******************
 
 - `chaoyanghe/Awesome-Federated-Learning <https://github.com/chaoyanghe/Awesome-Federated-Learning>`_
 - `weimingwill/awesome-federated-learning <https://github.com/weimingwill/awesome-federated-learning>`_
