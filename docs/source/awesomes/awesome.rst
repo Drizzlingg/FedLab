@@ -26,3 +26,14 @@ Awesome
     :link: https://example.com
 
     The entire card can be clicked to navigate to https://example.com.
+
+
+
+
+.. dropdown:: Survey
+    :animate: fade-in-slide-down
+
+    Brief survey
+
+
+
