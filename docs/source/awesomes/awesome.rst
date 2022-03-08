@@ -20,5 +20,3 @@ Awesome
 .. card:: Framework
     :link: framework
     :link-type: ref
-    :class-card: sd-rounded-2 sd-border-1
-
