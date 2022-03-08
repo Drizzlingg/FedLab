@@ -1,4 +1,4 @@
-.. _framework
+.. _framework:
 
 *********
 Framework

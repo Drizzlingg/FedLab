@@ -10,6 +10,11 @@ Awesome
    tutorial
    survey
    framework
+   benchmark
+   semi-supervised
+   hpc
+   other-awesome
+
 
 
 
