@@ -43,9 +43,11 @@ Please cite **FedLab** in your publications if it helps your research:
 Contacts
 ........
 
-Contact the **FedLab** development team through Github issues or email:
+Project Investigator: `Prof. Zenglin Xu <https://scholar.google.com/citations?user=gF0H9nEAAAAJ&hl=en>`_ (xuzenglin@hit.edu.cn).
+
+For technical issues related to FedLab development, please contact our development team through Github issues or email:
 
 - Dun Zeng: zengdun@foxmail.com
 
-- Siqi Liang: zszxlsq@gmail.com
+- `Siqi Liang <https://scholar.google.com/citations?user=LIjv5BsAAAAJ&hl=en>`_: zszxlsq@gmail.com
     

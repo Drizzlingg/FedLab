@@ -144,7 +144,7 @@ Please cite __FedLab__ in your publications if it helps your research:
 
 Project Investigator: [Prof. Zenglin Xu](https://scholar.google.com/citations?user=gF0H9nEAAAAJ&hl=en) (xuzenglin@hit.edu.cn).
 
-For technical issues reated to __FedLab__ development, please contact our development team through Github issues or email:
+For technical issues related to __FedLab__ development, please contact our development team through Github issues or email:
 
 - Dun Zeng: zengdun@foxmail.com
 - [Siqi Liang](https://scholar.google.com/citations?user=LIjv5BsAAAAJ&hl=en): zszxlsq@gmail.com
